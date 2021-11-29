@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senpaiPro
+- 👋 Hi, I’m @oesenpai
 - 👀 I’m interested in Web/Games Developpement
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
